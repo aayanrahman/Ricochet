@@ -14,3 +14,9 @@ Ricochet was a hackathon project built by a small team of passionate game develo
 1. Eliminate as many targets as possible by shooting them.
 2. Avoid your own projectiles as they ricochet back at you!
 3. Survive as long as possible through the waves!
+
+Credits:
+Sean Jung - gobbyAC
+Aayan Rahman - aayanrahman
+Daniel Liu - liusilei07
+Shuyun Liu - Shushucloud
