@@ -16,7 +16,7 @@ Ricochet was a hackathon project built by a small team of passionate game develo
 3. Survive as long as possible through the waves!
 
 Credits:
-Sean Jung - gobbyAC
-Aayan Rahman - aayanrahman
-Daniel Liu - liusilei07
-Shuyun Liu - Shushucloud
+Sean Jung-gobbyAC
+Aayan Rahman-aayanrahman
+Daniel Liu-liusilei07
+Shuyun Liu-Shushucloud
